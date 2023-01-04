@@ -2,7 +2,7 @@
 
 label:          'Images of Graffiti from the Basilica at Smyrna'
 description:    'A collection of research images prepared and used by Roger S. Bagnall, Roberta Casagrande-Kim, Akın Ersoy, and Cumhur Tanrıver for the book Graffiti from the Basilica in the Agora of Smyrna, Institute for the Study of the Ancient World, New York University Press, New York, 2016. This collection includes alternate views, details, and other images that did not appear in the book.'
-attribution:    'This dataset was prepared by Iris Fernandez and Tom Elliott for the Institute for the Study of the Ancient World at New York University using materials provided by Roger S. Bagnall. Photographs and images are the work of multiple individuals: Bagnall, Roberta Casagrande-Kim, Akın Ersoy, Sharon Hopkins, Franz Miltner, Constance Silver, and Cumhur Tanrıver.'
+attribution:    'This dataset was prepared by Iris Fernandez and Tom Elliott for the Institute for the Study of the Ancient World at New York University using materials provided by Roger S. Bagnall. Photographs and images are the work of multiple individuals: Bagnall, Roberta Casagrande-Kim, Akın Ersoy, Sharon Hopkins, Franz Miltner, Constance Silver, and Cumhur Tanrıver. See individual items for copyright statements. All content is shared under a Creative Commons Attribution 4.0 International license.'
 
 presentation_api_url: 'https://aperitiiif-presentation-api-store.s3.us-east-1.amazonaws.com'
 image_api_url:        'https://d1b7k5w7yjwpfg.cloudfront.net/iiif/2'
